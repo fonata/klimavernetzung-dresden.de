@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
 <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width; initial-scale=1.0;"/>
 <title>{{ title }}</title>
 <style>
     body, td {
@@ -9,18 +10,35 @@
         font-family: "Source Sans Pro", Helvetica, sans-serif;
     }
 
-    main {
-        max-width: 600px;
-        margin: 50px auto;
+    @media screen and (min-device-width: 480px) {
+        main {
+            max-width: 600px;
+            margin: 50px auto;
+        }
+    }
+
+    a:hover {
+        color: #9bf1ff !important;
     }
 
     a {
         color: white;
+        -moz-transition: color .2s ease-in-out, border-bottom-color .2s ease-in-out;
+        -webkit-transition: color .2s ease-in-out, border-bottom-color .2s ease-in-out;
+        -ms-transition: color .2s ease-in-out, border-bottom-color .2s ease-in-out;
+        transition: color .2s ease-in-out, border-bottom-color .2s ease-in-out;
     }
 
     h1, h2, h3 {
         color: #faa344;
         font-family: monospace;
+    }
+
+    @media screen and (max-device-width: 480px) {
+        /* iPhone */
+        body {
+            -webkit-text-size-adjust: 100%;
+        }
     }
 </style>
 <body>
