@@ -2,8 +2,10 @@ title: klimavernetzung-dresden.de
 url: "https://klimavernetzung-dresden.de/"
 theme: minima
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
+      layout: "page"
+collections:
+  initiatives:
+    output: true
