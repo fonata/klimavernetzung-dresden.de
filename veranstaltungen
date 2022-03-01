@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html  lang="de" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400italic,700italic,400,700" rel="stylesheet" type="text/css" />
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300" rel="stylesheet" type="text/css" />
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300italic" rel="stylesheet" type="text/css" />
+<link rel="icon" href="/themes/contrib/dxpr_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Veranstaltungen | klimavernetzung-dresden.de</title>
+    <style>ul.dropdown-menu {display: none;}</style>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_kOFx7RuDhn10qGc2ueK9FRUpABq6yYurnmChxjHHJzs.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_1DPF3m11iGSwWPUw1SJn-Y2jGRGuxSIJddS1X_HXF7s.css" />
+
+    <script src="/themes/contrib/dxpr_theme/vendor/modernizr-custom-d8-dxpr-theme.js?v=3.11.7"></script>
+<script src="/core/misc/modernizr-additional-tests.js?v=3.11.7"></script>
+
+  </head>
+  <body class="html path-veranstaltungen has-glyphicons body--dxpr-theme-header-top body--dxpr-theme-header-not-overlay body--dxpr-theme-header-normal">
+    <script>
+  var dxpr_themeNavBreakpoint = 1200;
+  var dxpr_themeWindowWidth = window.innerWidth;
+  if (dxpr_themeWindowWidth > dxpr_themeNavBreakpoint) {
+    document.body.className += ' body--dxpr-theme-nav-desktop';
+  }
+  else {
+    document.body.className += ' body--dxpr-theme-nav-mobile';
+  }
+  </script>
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Direkt zum Inhalt
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="dxpr-theme-boxed-container">
+
+
+                                          
+    <header class="navbar dxpr-theme-header dxpr-theme-header--top dxpr-theme-header--normal dxpr-theme-header--hover-opacity dxpr-theme-header--sticky" data-spy="affix" data-offset-top="60" id="navbar" role="banner">
+            <div class="container navbar-container">
+                  <div class="row container-row"><div class="col-sm-12 container-col">
+                <div class="navbar-header">
+            <div class="region region-navigation">
+        <div class="wrap-branding">
+        <a class="logo navbar-btn" href="/" title="Startseite" rel="home">
+      <img id="logo" src="/sites/default/files/Logo_Klimavernetzung.png" alt="Startseite" />
+    </a>
+        </div>
+  
+  </div>
+
+                                <a id="dxpr-theme-menu-toggle" href="#" class="three-dash"><span></span><div class="screenreader-text visually-hidden">Toggle menu</div></a>
+                  </div>
+
+                            <nav role="navigation" id="dxpr-theme-main-menu" class="dxpr-theme-main-menu ">
+              <div class="region region-navigation-collapsible">
+                                                                <section id="block-dxpr-theme-main-menu" class="block block-system block-system-menu-blockmain clearfix">
+  
+          
+
+      
+              <ul class="menu nav navbar-nav">
+                            <li class="expanded dropdown">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Startseite</a>
+                  </li>
+                        <li class="expanded dropdown">
+        <a href="/form/minimalkonsens">Minimalkonsens</a>
+                  </li>
+                        <li class="expanded dropdown active">
+        <a href="/veranstaltungen" data-drupal-link-system-path="veranstaltungen" class="is-active">Veranstaltungen</a>
+                  </li>
+                        <li class="expanded dropdown">
+        <a href="/wunderbar/ueber-uns" data-drupal-link-system-path="node/8">Über uns</a>
+                  </li>
+        </ul>
+  
+
+
+  </section>
+
+  </div>
+
+            </nav>
+                          </div></div>
+              </div>
+    </header>
+  
+<div class="wrap-containers">
+
+
+
+        <div class="page-title-full-width-container" id="page-title-full-width-container">
+          <header role="banner" id="page-title" class="container page-title-container">
+            
+    <h1 class="page-title">Veranstaltungen</h1>
+
+
+  
+
+
+      </header>
+    </div>
+  
+
+    <div role="main" class="main-container container js-quickedit-main-content clearfix">
+        <div class="row">
+                
+                          
+      <section class="col-sm-12">
+
+                
+                                      
+                  
+                          <a id="main-content"></a>
+            <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+  <div class="views-element-container form-group"><div class="view view-veranstaltungen view-id-veranstaltungen view-display-id-page_1 js-view-dom-id-ea4a348774e35181365eaab2595d8f6031087d5b47e60f321ee6d7438228c646">
+  
+    
+      <div class="view-header">
+      <p>Es gibt für Dresden bereits zahlreiche Orte, an denen Veranstaltungen für Klimagerechtigkeit veröffentlicht werden. Wir empfehlen (in keiner bestimmten Reihenfolge) die folgenden initiativenübergreifenden Orte:</p>
+
+<p>• <a href="https://gruenesbrett.net/events/">Grünes Brett</a> des BUND<br />
+• <a href="https://t.me/s/Input_DD">Telegram-Kanal Input_DD</a><br />
+• <a href="https://la-dresden.de/startseite/veranstaltungen/">Veranstaltungskalender des Lokale Agenda 21 für Dresden e. V.</a></p>
+
+<p style="display:none">Außerdem veröffentlichen die Dresdner Initiativen auf ihren eigenen Websites und Social Media-Profilen Informationen über kommende Veranstaltungen:</p>
+
+<table style="display:none">
+	<tbody>
+		<tr>
+			<td>• Fridays For Future Dresden</td>
+			<td><a href="https://fffdd.de/aktionen/" title="Aktionen von FFF Dresden">🏡</a></td>
+		</tr>
+		<tr>
+			<td>• Extinction Rebellion Dresden</td>
+			<td><a href="https://extinctionrebellion.de/og/dresden/">🏡</a></td>
+			<td><a href="https://orga.extinctionrebellion.de/apps/calendar/p/S6btJNDezD2srtJb/dayGridMonth" title="Kalender">📅</a></td>
+		</tr>
+	</tbody>
+</table>
+<p><br />Manchmal jedoch veröffentlichen wir Veranstaltungen auch hier - vor allem wenn sie anderswo noch nicht sehr präsent sind. Folgende Veranstaltung sind das aktuell:<br /><br /></p>
+    </div>
+      
+      <div class="view-content">
+        <div class="table-responsive">
+<table class="table table-hover table-striped">
+        <thead>
+    <tr>
+                                      <th id="view-title-table-column" class="views-field views-field-title" scope="col">Titel</th>
+                                      <th id="view-field-ort-table-column" class="views-field views-field-field-ort" scope="col">Ort</th>
+                                      <th id="view-field-start-table-column" class="views-field views-field-field-start" scope="col">Zeit</th>
+                                      <th id="view-field-initiative-table-column" class="views-field views-field-field-initiative" scope="col">Verantwortliche Initiative</th>
+          </tr>
+    </thead>
+    <tbody>
+      <tr>
+                                                                      <td headers="view-title-table-column" class="views-field views-field-title"><a href="/node/13" hreflang="de">Vortrag mit Henning</a>        </td>
+                                                                      <td headers="view-field-ort-table-column" class="views-field views-field-field-ort">Stadtteilhaus Neustadt, Prießnitzstraße 18        </td>
+                                                                      <td headers="view-field-start-table-column" class="views-field views-field-field-start">21.02.2022 - 18:00        </td>
+                                                                      <td headers="view-field-initiative-table-column" class="views-field views-field-field-initiative">Aufstand der letzten Generation        </td>
+          </tr>
+    </tbody>
+</table>
+  </div>
+
+    </div>
+  
+            <div class="view-footer">
+      
+    </div>
+    </div>
+</div>
+
+
+  </div>
+
+              </section>
+
+                    </div><!-- end .ow -->
+      </div><!-- end main-container -->
+
+</div>
+
+
+</div><!-- end dxpr-theme-boxed-container -->
+
+  </div>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"veranstaltungen","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"de"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"bootstrap":{"forms_has_error_value_toggle":1,"popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"top","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto top","tooltip_selector":"","tooltip_trigger":"hover"},"dxpr_themeSettings":{"headerHeight":"100","headerOffset":"60","headerMobileHeight":"60"},"user":{"uid":0,"permissionsHash":"2864e7162bf6210cd0113a78a54fedc78c390e6dbe5bc2ebe2e117439f3f6cf0"}}</script>
+<script src="/sites/default/files/js/js_1fz1xp2o4VAwmm8piORLGdlJ2E1NmL2hcHVqJk9X6EE.js"></script>
+
+    <div class="hidden" id="dxpr-theme-js-seed">sfy39587stp18</div>
+  </body>
+</html>
